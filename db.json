@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "title": "On Walt Whitman, Unsung Newspaperman",
     "author": "Philip Eil",
@@ -13,4 +14,8 @@
     "title": "On Frank Lloyd Wright and the Architectural War For New York’s Skyline",
     "author": "Anthony Alofsin",
     "text": "<p>The New York City to which Frank Lloyd Wright returned in late 1926 was dramatically different from the metropolis he had encountered in 1909, but its evolution was not a mystery. The dramatic skyscrapers, the stock market, airplanes, jazz, the Harlem Renaissance, radio, and even organized crime, which gave the 1920s their fame, did not appear from nowhere. All had developed from the preceding decades. The risk was large, but for greater New York, still barely 20 years old, “the ties that bound—subways, bridges, schools, amusement parks, police, theaters, jobs, water, public health, Tammany, the excitement and pride of living in a great city—overmatched the innumerable antagonisms and kept them with bounds.” Squinting at risk, its citizens might assume “so far so good.”</p>"
-  }]
+  }],
+  "profile": {
+    "name": "db"
+  }
+}
